@@ -1,0 +1,1122 @@
+2016-07-01 06:34:47 DEBUG com.gmail.tekieli.konrad.App     - START
+2016-07-01 06:34:57 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:34:57 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:34:57 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: kobziarz, can sabotage? null
+2016-07-01 06:34:57 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"renewable_resources","value":2,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:34:57 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"semiconductors","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:34:57 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"renewable_resources","value":2,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:34:57 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"electromagnets","value":2,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:34:57 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"convenience_food","value":2,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:34:57 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:34:57 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"bionics","value":2,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:34:57 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"electromagnets","value":2,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:34:57 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:34:57 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"bionics","value":2,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:34:57 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"convenience_food","value":2,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:34:57 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:34:57 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"bionics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:34:57 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:34:57 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:34:57 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:34:57 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:34:57 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:34:57 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:35:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:35:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:35:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: labedzia33, can sabotage? null
+2016-07-01 06:35:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"bionics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:35:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"whaleoil","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:35:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"coke","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:35:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:35:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:35:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"dna_data","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:35:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"robots","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:35:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"dna_data","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:35:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:35:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:35:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:35:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:35:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:35:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:35:59 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:35:59 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:35:59 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: Manrok, can sabotage? null
+2016-07-01 06:35:59 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"semiconductors","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:35:59 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"rubber","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:35:59 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:35:59 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:35:59 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"papercrete","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:35:59 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:35:59 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"petroleum","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:35:59 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"petroleum","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:35:59 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:35:59 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:35:59 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:35:59 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:35:59 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:35:59 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:36:26 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:36:26 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:36:26 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: mnmn004, can sabotage? null
+2016-07-01 06:36:26 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:36:26 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"bionics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:36:26 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:36:26 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:36:26 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"filters","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:36:26 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"semiconductors","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:36:26 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:36:26 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:36:26 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:36:26 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:36:26 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:36:26 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:36:26 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:36:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:36:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:36:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: patplo1, can sabotage? null
+2016-07-01 06:36:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"talc","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:36:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"textiles","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:36:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"explosives","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:36:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"whaleoil","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:36:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"coffee","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:36:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"glass","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:36:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"steel","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:36:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:36:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"flavorants","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:36:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:36:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"talc","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:36:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"coffee","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:36:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"dna_data","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:36:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"whaleoil","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:36:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"whaleoil","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:36:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"flavorants","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:36:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"convenience_food","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:38:35 DEBUG com.gmail.tekieli.konrad.App     - START
+2016-07-01 06:38:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:38:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:38:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: mnmn004, can sabotage? null
+2016-07-01 06:38:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:38:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"bionics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:38:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:38:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:38:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"filters","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:38:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"semiconductors","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:38:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:38:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:38:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:38:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:38:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:38:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:38:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:38:40 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:38:40 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:38:40 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: patplo1, can sabotage? null
+2016-07-01 06:38:40 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"talc","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:38:40 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"textiles","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:38:40 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"explosives","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:38:40 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"whaleoil","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:38:40 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"coffee","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:38:40 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"glass","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:38:40 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"steel","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:38:40 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:38:40 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"flavorants","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:38:40 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:38:40 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"talc","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:38:40 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"coffee","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:38:40 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"dna_data","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:38:40 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"whaleoil","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:38:40 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"whaleoil","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:38:40 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"flavorants","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:38:40 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"convenience_food","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:39:03 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:39:03 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:39:03 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: jan22, can sabotage? null
+2016-07-01 06:39:03 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"convenience_food","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:39:03 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"robots","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:39:03 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:39:03 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:39:03 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"gas","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:39:03 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:39:03 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:39:03 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:39:03 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"semiconductors","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:39:03 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"rubber","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:39:03 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:39:03 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:39:03 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:39:03 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:39:16 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:39:16 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:39:16 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: NAFCIARZ 80, can sabotage? null
+2016-07-01 06:39:16 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue null
+2016-07-01 06:39:16 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:39:16 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:39:16 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:39:16 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:39:16 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:39:16 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:39:16 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"robots","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:39:16 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"robots","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:39:16 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"robots","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:39:16 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:39:16 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:39:16 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:39:16 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:39:16 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:39:16 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:39:16 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:39:16 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:39:16 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:39:16 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:39:16 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:39:31 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:39:31 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:39:31 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: Jan1985, can sabotage? null
+2016-07-01 06:39:31 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue null
+2016-07-01 06:39:31 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue null
+2016-07-01 06:39:31 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:39:31 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:39:31 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:39:31 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:39:31 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:39:31 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:39:41 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:39:41 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:39:41 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: zakjaros, can sabotage? null
+2016-07-01 06:39:41 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"fertilizer","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:39:41 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:39:41 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"renewable_resources","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:39:41 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"explosives","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:39:41 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"tar","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:39:41 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"dna_data","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:39:41 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"whaleoil","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:39:41 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"filters","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:39:41 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"asbestos","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:39:41 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"flavorants","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:39:41 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"bionics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:39:41 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:39:41 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:39:41 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:39:41 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"robots","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:39:41 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"textiles","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:39:52 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:39:52 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:39:52 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: grubciu, can sabotage? null
+2016-07-01 06:39:52 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue null
+2016-07-01 06:39:52 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue null
+2016-07-01 06:39:52 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue null
+2016-07-01 06:39:52 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue null
+2016-07-01 06:39:52 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue null
+2016-07-01 06:39:52 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"bionics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:39:52 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:39:52 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:39:52 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"strategy_points":{"currentSP":2,"__class__":"StrategyPoints"},"__class__":"CityResource"}
+2016-07-01 06:39:52 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"strategy_points":{"currentSP":2,"__class__":"StrategyPoints"},"__class__":"CityResource"}
+2016-07-01 06:39:52 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:40:58 DEBUG com.gmail.tekieli.konrad.App     - START
+2016-07-01 06:41:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:41:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:41:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: zakjaros, can sabotage? null
+2016-07-01 06:41:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"fertilizer","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:41:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:41:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"renewable_resources","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:41:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"explosives","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:41:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"tar","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:41:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"dna_data","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:41:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"whaleoil","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:41:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"filters","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:41:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"asbestos","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:41:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"flavorants","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:41:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"bionics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:41:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:41:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:41:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:41:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"robots","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:41:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"textiles","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:41:04 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:41:04 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:41:04 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: grubciu, can sabotage? null
+2016-07-01 06:41:04 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue null
+2016-07-01 06:41:04 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue null
+2016-07-01 06:41:04 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue null
+2016-07-01 06:41:04 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue null
+2016-07-01 06:41:04 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue null
+2016-07-01 06:41:04 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"goods":[{"good_id":"bionics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:41:04 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:41:04 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:41:04 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"strategy_points":{"currentSP":2,"__class__":"StrategyPoints"},"__class__":"CityResource"}
+2016-07-01 06:41:04 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"strategy_points":{"currentSP":2,"__class__":"StrategyPoints"},"__class__":"CityResource"}
+2016-07-01 06:41:04 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: null, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:41:51 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:41:51 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 06:41:51 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: rewardPlunder 
+2016-07-01 06:41:51 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityResourcesService , requestMethod: getResources 
+2016-07-01 06:41:51 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: updatePlayer 
+2016-07-01 06:41:51 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: reset 
+2016-07-01 06:41:51 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: plunder 
+2016-07-01 06:43:52 DEBUG com.gmail.tekieli.konrad.App     - START
+2016-07-01 06:44:00 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:44:00 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:44:00 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: ewkam, can sabotage? false
+2016-07-01 06:44:00 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"smart_materials","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:00 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:44:00 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"petroleum","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:00 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"explosives","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:00 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:44:00 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:00 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"gas","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:00 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"preservatives","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:00 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:44:00 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"robots","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:44:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:44:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: radko12, can sabotage? false
+2016-07-01 06:44:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:44:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":280,"__class__":"CityResource"}
+2016-07-01 06:44:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"bionics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"strategy_points":{"currentSP":2,"__class__":"StrategyPoints"},"__class__":"CityResource"}
+2016-07-01 06:44:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"nutrition_research","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"nutrition_research","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:44:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:44:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: Miły1, can sabotage? false
+2016-07-01 06:44:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"convenience_food","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"petroleum","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"coffee","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"robots","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"bionics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"asbestos","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:34 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:44:34 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:44:34 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: stach06, can sabotage? false
+2016-07-01 06:44:34 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"wire","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:34 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"robots","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:34 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:34 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"machineparts","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:34 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":280,"__class__":"CityResource"}
+2016-07-01 06:44:34 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"explosives","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:34 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"gas","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:34 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"nutrition_research","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:34 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"filters","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:34 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:34 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:44:34 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"papercrete","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:34 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:34 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:34 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:34 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"whaleoil","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:34 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:44:34 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:34 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:44:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:44:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:44:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: caladan, can sabotage? false
+2016-07-01 06:44:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"dna_data","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"porcelain","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"convenience_food","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"whaleoil","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:44:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"strategy_points":{"currentSP":2,"__class__":"StrategyPoints"},"__class__":"CityResource"}
+2016-07-01 06:44:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"asbestos","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:44:51 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:44:51 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 06:44:51 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: ArmyUnitManagementService , requestMethod: getArmyInfo 
+2016-07-01 06:44:58 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:45:00 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:45:00 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 06:45:00 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: BattlefieldService , requestMethod: startPvP 
+2016-07-01 06:45:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:45:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 06:45:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: updatePlayer 
+2016-07-01 06:45:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: BattlefieldService , requestMethod: submitMove 
+2016-07-01 06:45:12 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:45:12 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:45:12 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: Szogun-ronia11, can sabotage? false
+2016-07-01 06:45:12 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"gas","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:12 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:45:12 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"robots","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:12 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"steel","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:12 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"bionics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:12 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"filters","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:12 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"coke","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:12 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"dna_data","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:12 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"whaleoil","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:12 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"whaleoil","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:12 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:45:12 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:45:12 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"rubber","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:21 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:45:21 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:45:21 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: kropiel, can sabotage? false
+2016-07-01 06:45:21 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:45:21 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:21 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"tinplate","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:21 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"gas","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:21 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"steel","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:21 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"strategy_points":{"currentSP":2,"__class__":"StrategyPoints"},"__class__":"CityResource"}
+2016-07-01 06:45:21 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"textiles","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:21 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:45:21 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:21 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"coke","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:21 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:21 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:45:21 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:45:21 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"bionics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:28 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:45:28 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:45:28 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: Skota, can sabotage? false
+2016-07-01 06:45:28 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":280,"__class__":"CityResource"}
+2016-07-01 06:45:36 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:45:36 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:45:36 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: billclintonisback, can sabotage? false
+2016-07-01 06:45:36 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"coffee","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:36 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:36 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"rubber","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:36 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"machineparts","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:36 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:45:36 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"renewable_resources","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:36 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:45:36 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"strategy_points":{"currentSP":2,"__class__":"StrategyPoints"},"__class__":"CityResource"}
+2016-07-01 06:45:36 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:45:36 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:36 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"petroleum","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:36 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"ferroconcrete","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:36 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:36 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:36 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:45:36 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:36 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:45:36 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:45:36 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"bionics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:36 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:45:47 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:45:47 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:45:47 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: polebawełny, can sabotage? false
+2016-07-01 06:45:47 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:45:47 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:45:47 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:45:47 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:45:47 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:45:47 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:46:30 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:46:30 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:46:30 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: Lutnia, can sabotage? false
+2016-07-01 06:46:30 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"machineparts","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:30 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:30 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"robots","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:30 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"petroleum","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:30 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:46:30 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":280,"__class__":"CityResource"}
+2016-07-01 06:46:30 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:30 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:46:30 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:46:30 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:46:30 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"strategy_points":{"currentSP":2,"__class__":"StrategyPoints"},"__class__":"CityResource"}
+2016-07-01 06:46:30 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:46:30 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:46:30 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:46:30 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:46:30 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:46:43 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:46:43 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:46:43 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: Sobal81, can sabotage? false
+2016-07-01 06:46:43 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"translucent_concrete","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:43 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:46:43 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"tinplate","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:43 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"semiconductors","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:43 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:46:43 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"dna_data","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:43 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:43 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"steel","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:43 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"preservatives","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:43 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"whaleoil","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:43 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:46:43 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"rubber","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:43 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:43 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:43 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"coffee","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:43 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"convenience_food","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:43 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:46:43 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:46:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:46:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:46:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: filipczarny4, can sabotage? false
+2016-07-01 06:46:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"bionics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"whaleoil","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"ferroconcrete","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"preservatives","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"petroleum","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"bionics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"algae","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"textiles","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"explosives","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:46:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"nutrition_research","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:46:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:46:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:46:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:46:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:46:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:46:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:46:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"paper","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: dabo1975, can sabotage? false
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"bionics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"gas","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"translucent_concrete","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"robots","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:47:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:47:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: betik1, can sabotage? false
+2016-07-01 06:47:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"steel","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"translucent_concrete","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:47:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"ferroconcrete","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"robots","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:47:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"tinplate","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"asbestos","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"flavorants","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"renewable_resources","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:47:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"preservatives","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"textiles","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"tar","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"fertilizer","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:47:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"wire","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:29 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:47:29 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:47:29 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: Artur241271, can sabotage? false
+2016-07-01 06:47:29 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:29 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"preservatives","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:29 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"petroleum","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:29 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:47:29 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"machineparts","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:29 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:29 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"smart_materials","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:29 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:47:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:47:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:47:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: jaceks870, can sabotage? false
+2016-07-01 06:47:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue null
+2016-07-01 06:47:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:47:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:47:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"bionics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:47:38 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:47:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:47:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: andrzejek75, can sabotage? false
+2016-07-01 06:47:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"luxury_materials","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"smart_materials","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"petroleum","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"tinplate","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"smart_materials","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"dna_data","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"bionics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"tinplate","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"whaleoil","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"translucent_concrete","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"translucent_concrete","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"gas","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:45 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"dna_data","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: Obcy8, can sabotage? false
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue null
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue null
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"strategy_points":{"currentSP":2,"__class__":"StrategyPoints"},"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"robots","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:47:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":280,"__class__":"CityResource"}
+2016-07-01 06:48:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:48:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:48:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: andziaW, can sabotage? false
+2016-07-01 06:48:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:48:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"papercrete","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:48:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"rubber","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:48:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"semiconductors","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:48:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:48:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:48:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:48:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:48:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:48:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:48:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:48:11 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"strategy_points":{"currentSP":2,"__class__":"StrategyPoints"},"__class__":"CityResource"}
+2016-07-01 06:48:28 DEBUG com.gmail.tekieli.konrad.App     - START
+2016-07-01 06:48:58 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:48:59 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:48:59 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 06:48:59 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: BattlefieldService , requestMethod: startPvP 
+2016-07-01 06:49:04 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:49:04 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 06:49:04 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: RankingService , requestMethod: newRank 
+2016-07-01 06:49:04 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: updatePlayer 
+2016-07-01 06:49:04 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: updatePlayer 
+2016-07-01 06:49:04 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: BattlefieldService , requestMethod: submitMove 
+2016-07-01 06:49:14 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:49:14 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:49:14 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: andziaW, can sabotage? true
+2016-07-01 06:49:14 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:49:14 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"papercrete","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:49:14 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"rubber","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:49:14 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"semiconductors","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:49:14 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:49:14 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:49:14 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:49:14 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:49:14 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:49:14 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:49:14 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:49:14 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"strategy_points":{"currentSP":2,"__class__":"StrategyPoints"},"__class__":"CityResource"}
+2016-07-01 06:49:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:49:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:49:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: Lisiczka9, can sabotage? false
+2016-07-01 06:49:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:49:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:49:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:49:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:49:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:49:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"bionics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:49:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"bionics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:49:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:49:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"strategy_points":{"currentSP":2,"__class__":"StrategyPoints"},"__class__":"CityResource"}
+2016-07-01 06:49:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"strategy_points":{"currentSP":2,"__class__":"StrategyPoints"},"__class__":"CityResource"}
+2016-07-01 06:49:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:49:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:49:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:49:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:49:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:49:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:49:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:49:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":280,"__class__":"CityResource"}
+2016-07-01 06:49:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:49:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:49:56 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:49:56 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 06:49:56 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: ArmyUnitManagementService , requestMethod: getArmyInfo 
+2016-07-01 06:50:04 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:50:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:50:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 06:50:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: BattlefieldService , requestMethod: startPvP 
+2016-07-01 06:50:10 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:50:10 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 06:50:10 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: RankingService , requestMethod: newRank 
+2016-07-01 06:50:10 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: updatePlayer 
+2016-07-01 06:50:10 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: updatePlayer 
+2016-07-01 06:50:10 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: BattlefieldService , requestMethod: submitMove 
+2016-07-01 06:50:18 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:50:18 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:50:18 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: Lisiczka9, can sabotage? true
+2016-07-01 06:50:18 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:50:18 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:50:18 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:50:18 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:50:18 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:50:18 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"bionics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:50:18 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"bionics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:50:18 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:50:18 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"strategy_points":{"currentSP":2,"__class__":"StrategyPoints"},"__class__":"CityResource"}
+2016-07-01 06:50:18 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"strategy_points":{"currentSP":2,"__class__":"StrategyPoints"},"__class__":"CityResource"}
+2016-07-01 06:50:18 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:50:18 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:50:18 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:50:18 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 06:50:18 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:50:18 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:50:18 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:50:18 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":280,"__class__":"CityResource"}
+2016-07-01 06:50:18 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 06:50:18 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:50:28 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:50:28 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 06:50:28 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - Player Name: leeppo3, can sabotage? false
+2016-07-01 06:50:28 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"filters","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:50:28 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"smart_materials","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:50:28 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:50:28 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:50:28 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"bionics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:50:28 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"tinplate","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:50:28 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"goods":[{"good_id":"textiles","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 06:50:28 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:50:28 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:50:28 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"strategy_points":{"currentSP":2,"__class__":"StrategyPoints"},"__class__":"CityResource"}
+2016-07-01 06:50:28 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:50:28 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:50:28 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 06:50:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:50:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 06:50:39 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: getEntities 
+2016-07-01 06:50:41 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:50:41 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: AnnouncementsService , requestMethod: fetchAllAnnouncements 
+2016-07-01 06:50:41 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 06:50:54 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:50:54 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 06:50:54 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityResourcesService , requestMethod: getResources 
+2016-07-01 06:50:54 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityProductionService , requestMethod: pickupProduction 
+2016-07-01 06:50:58 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:50:58 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 06:50:58 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityResourcesService , requestMethod: getResources 
+2016-07-01 06:50:58 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityProductionService , requestMethod: startProduction 
+2016-07-01 06:50:59 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:50:59 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 06:50:59 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityResourcesService , requestMethod: getResources 
+2016-07-01 06:50:59 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityProductionService , requestMethod: startProduction 
+2016-07-01 06:51:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:51:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 06:51:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityResourcesService , requestMethod: getResources 
+2016-07-01 06:51:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityProductionService , requestMethod: startProduction 
+2016-07-01 06:51:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:51:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 06:51:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityResourcesService , requestMethod: getResources 
+2016-07-01 06:51:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityProductionService , requestMethod: startProduction 
+2016-07-01 06:51:06 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:51:06 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 06:51:06 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityResourcesService , requestMethod: getResources 
+2016-07-01 06:51:06 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityProductionService , requestMethod: startProduction 
+2016-07-01 06:51:08 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:51:08 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 06:51:08 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityResourcesService , requestMethod: getResources 
+2016-07-01 06:51:08 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityProductionService , requestMethod: startProduction 
+2016-07-01 06:51:10 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 06:51:10 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 06:51:10 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityResourcesService , requestMethod: getResources 
+2016-07-01 06:51:10 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityProductionService , requestMethod: startProduction 
+2016-07-01 11:28:09 DEBUG com.gmail.tekieli.konrad.App     - START
+2016-07-01 11:28:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 11:28:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TutorialService , requestMethod: getProgress 
+2016-07-01 11:28:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 11:28:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: BonusService , requestMethod: getBonuses 
+2016-07-01 11:28:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TreasureHuntService , requestMethod: getCurrentChest 
+2016-07-01 11:28:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: BonusService , requestMethod: getLimitedBonuses 
+2016-07-01 11:28:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: RankingService , requestMethod: newRank 
+2016-07-01 11:28:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: updateActions 
+2016-07-01 11:28:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: ResourceService , requestMethod: getResourceDefinitions 
+2016-07-01 11:28:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: ResourceService , requestMethod: getPlayerResources 
+2016-07-01 11:28:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: ResourceService , requestMethod: getPlayerAutoRefills 
+2016-07-01 11:28:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: FriendService , requestMethod: getInvitationLink 
+2016-07-01 11:28:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: HiddenRewardService , requestMethod: getOverview 
+2016-07-01 11:28:25 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: StartupService , requestMethod: getData 
+2016-07-01 11:28:27 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 11:28:27 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: getEvents 
+2016-07-01 11:28:27 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 11:28:27 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityResourcesService , requestMethod: getResources 
+2016-07-01 11:28:27 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: AnnouncementsService , requestMethod: fetchAllAnnouncements 
+2016-07-01 11:28:27 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TrackingService , requestMethod: trackLoginDone 
+2016-07-01 11:28:50 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 11:28:50 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 11:28:50 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - Player Name: Camarilla, can sabotage? false
+2016-07-01 11:28:50 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"strategy_points":{"currentSP":2,"__class__":"StrategyPoints"},"__class__":"CityResource"}
+2016-07-01 11:28:50 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 11:28:50 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":280,"__class__":"CityResource"}
+2016-07-01 11:28:50 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 11:28:50 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 11:28:50 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 11:28:50 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":280,"__class__":"CityResource"}
+2016-07-01 13:40:51 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:40:51 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: SettingsService , requestMethod: updateSettings 
+2016-07-01 13:40:51 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 13:40:51 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - Player Name: mnmn004, can sabotage? false
+2016-07-01 13:40:51 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:40:51 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"bionics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:40:51 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 13:40:51 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 13:40:51 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"filters","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:40:51 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"semiconductors","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:40:51 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 13:40:51 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"robots","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:40:51 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:40:51 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:40:51 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 13:40:51 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 13:40:51 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:41:01 DEBUG com.gmail.tekieli.konrad.App     - START
+2016-07-01 13:41:04 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: reset 
+2016-07-01 13:41:04 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:41:04 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 13:41:04 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - Player Name: patplo1, can sabotage? true
+2016-07-01 13:41:04 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"talc","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:41:04 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"textiles","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:41:04 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"explosives","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:41:04 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"whaleoil","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:41:04 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"coffee","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:41:04 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"glass","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:41:04 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"steel","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:41:04 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:41:04 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"flavorants","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:41:04 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:41:04 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"talc","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:41:04 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"coffee","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:41:04 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"dna_data","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:41:04 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"whaleoil","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:41:04 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"whaleoil","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:41:04 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"flavorants","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:41:04 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"convenience_food","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:41:24 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:41:24 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 13:41:24 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - Player Name: grubciu, can sabotage? false
+2016-07-01 13:41:24 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue null
+2016-07-01 13:41:24 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue null
+2016-07-01 13:41:24 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue null
+2016-07-01 13:41:24 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue null
+2016-07-01 13:41:24 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue null
+2016-07-01 13:41:24 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"bionics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:41:24 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:41:24 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:41:24 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"strategy_points":{"currentSP":2,"__class__":"StrategyPoints"},"__class__":"CityResource"}
+2016-07-01 13:41:24 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"strategy_points":{"currentSP":2,"__class__":"StrategyPoints"},"__class__":"CityResource"}
+2016-07-01 13:41:24 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:41:28 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:41:28 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 13:41:28 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - Player Name: caladan, can sabotage? false
+2016-07-01 13:41:28 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"dna_data","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:41:28 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"porcelain","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:41:28 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:41:28 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:41:28 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"convenience_food","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:41:28 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"whaleoil","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:41:28 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:41:28 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:41:28 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"strategy_points":{"currentSP":2,"__class__":"StrategyPoints"},"__class__":"CityResource"}
+2016-07-01 13:41:28 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"asbestos","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:41:33 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:41:33 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 13:41:33 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - Player Name: andziaW, can sabotage? true
+2016-07-01 13:41:33 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 13:41:33 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 13:41:33 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 13:41:33 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 13:41:33 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 13:41:33 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 13:41:33 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:41:33 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:41:33 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 13:41:33 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:41:33 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:41:33 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 13:41:47 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:41:47 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 13:41:47 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - Player Name: Lisiczka9, can sabotage? true
+2016-07-01 13:41:47 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 13:41:47 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:41:47 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 13:41:47 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:41:47 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 13:41:47 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"bionics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:41:47 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"bionics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:41:47 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"electromagnets","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:41:47 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"strategy_points":{"currentSP":2,"__class__":"StrategyPoints"},"__class__":"CityResource"}
+2016-07-01 13:41:47 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"strategy_points":{"currentSP":2,"__class__":"StrategyPoints"},"__class__":"CityResource"}
+2016-07-01 13:41:47 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:41:47 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:41:47 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:41:47 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 13:41:47 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 13:41:47 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:41:47 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:41:47 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":280,"__class__":"CityResource"}
+2016-07-01 13:41:47 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 13:41:47 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:42:00 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:42:00 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: reset 
+2016-07-01 13:42:00 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 13:42:00 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: getEntities 
+2016-07-01 13:42:01 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:42:01 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: AnnouncementsService , requestMethod: fetchAllAnnouncements 
+2016-07-01 13:42:01 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: reset 
+2016-07-01 13:42:01 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 13:42:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:42:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: AnnouncementsService , requestMethod: fetchAllAnnouncements 
+2016-07-01 13:42:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: ConversationService , requestMethod: getOverview 
+2016-07-01 13:42:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:42:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: ConversationService , requestMethod: getConversation 
+2016-07-01 13:42:08 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:42:08 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 13:42:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - Player Name: elgod, can sabotage? false
+2016-07-01 13:42:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"transester_gas","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:42:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"superconductors","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:42:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"nanowire","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:42:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"nanowire","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:42:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"ai_data","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:42:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"transester_gas","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:42:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:42:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:42:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"superconductors","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:42:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:42:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"transester_gas","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:42:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"transester_gas","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:42:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"purified_water","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:42:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 13:42:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 13:42:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"ai_data","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:42:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:42:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:42:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 13:42:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:42:08 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: reset 
+2016-07-01 13:42:08 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 13:42:08 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: ConversationService , requestMethod: markMessageRead 
+2016-07-01 13:42:13 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:42:13 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: reset 
+2016-07-01 13:42:13 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 13:42:13 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: updateEntity 
+2016-07-01 13:42:13 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: GreatBuildingsService , requestMethod: getConstruction 
+2016-07-01 13:42:18 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:42:18 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: reset 
+2016-07-01 13:42:18 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 13:42:18 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: getEntities 
+2016-07-01 13:42:19 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:42:19 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: AnnouncementsService , requestMethod: fetchAllAnnouncements 
+2016-07-01 13:42:19 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: reset 
+2016-07-01 13:42:19 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 13:42:23 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:42:23 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: reset 
+2016-07-01 13:42:23 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 13:42:23 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: updateEntity 
+2016-07-01 13:42:23 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: GreatBuildingsService , requestMethod: getConstruction 
+2016-07-01 13:42:29 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:42:29 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: reset 
+2016-07-01 13:42:29 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 13:42:29 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: updateEntity 
+2016-07-01 13:42:29 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: GreatBuildingsService , requestMethod: getConstruction 
+2016-07-01 13:42:29 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:42:29 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: reset 
+2016-07-01 13:42:29 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 13:42:29 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: updateEntity 
+2016-07-01 13:42:29 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityResourcesService , requestMethod: getResources 
+2016-07-01 13:42:29 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: reset 
+2016-07-01 13:42:29 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: GreatBuildingsService , requestMethod: spendForgePoints 
+2016-07-01 13:42:35 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:42:35 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: reset 
+2016-07-01 13:42:35 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 13:42:35 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: getEntities 
+2016-07-01 13:42:36 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:42:36 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: AnnouncementsService , requestMethod: fetchAllAnnouncements 
+2016-07-01 13:42:36 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: reset 
+2016-07-01 13:42:36 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 13:42:41 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:42:41 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: InventoryService , requestMethod: getInventory 
+2016-07-01 13:43:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:43:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: SettingsService , requestMethod: updateSettings 
+2016-07-01 13:43:15 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 13:43:15 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - Player Name: madaro, can sabotage? false
+2016-07-01 13:43:15 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"ai_data","value":30,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:43:15 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"paper_batteries","value":30,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:43:15 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 13:43:15 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"paper_batteries","value":30,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:43:15 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"smart_materials","value":30,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:43:15 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"smart_materials","value":30,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:43:15 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"luxury_materials","value":30,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:43:15 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:43:15 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:43:15 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:43:15 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"nanoparticles","value":30,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:43:15 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"paper_batteries","value":30,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:43:15 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"nanoparticles","value":30,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:43:15 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 13:45:08 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:45:08 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: reset 
+2016-07-01 13:45:08 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 13:45:08 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: getEntities 
+2016-07-01 13:45:09 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:45:09 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: AnnouncementsService , requestMethod: fetchAllAnnouncements 
+2016-07-01 13:45:09 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: reset 
+2016-07-01 13:45:09 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 13:45:09 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:45:09 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: AnnouncementsService , requestMethod: fetchAllAnnouncements 
+2016-07-01 13:45:09 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: ConversationService , requestMethod: getOverview 
+2016-07-01 13:45:21 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:45:21 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 13:45:21 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - Player Name: madaro, can sabotage? false
+2016-07-01 13:45:21 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"ai_data","value":30,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:45:21 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"paper_batteries","value":30,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:45:21 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 13:45:21 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"paper_batteries","value":30,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:45:21 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"smart_materials","value":30,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:45:21 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"smart_materials","value":30,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:45:21 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"luxury_materials","value":30,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:45:21 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:45:21 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:45:21 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:45:21 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"nanoparticles","value":30,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:45:21 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"paper_batteries","value":30,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:45:21 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"nanoparticles","value":30,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:45:21 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 13:46:08 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:46:08 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 13:46:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - Player Name: elgod, can sabotage? false
+2016-07-01 13:46:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"transester_gas","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:46:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"superconductors","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:46:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"nanowire","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:46:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"nanowire","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:46:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"ai_data","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:46:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"transester_gas","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:46:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:46:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:46:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"superconductors","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:46:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:46:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"transester_gas","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:46:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"transester_gas","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:46:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"purified_water","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:46:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 13:46:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 13:46:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"ai_data","value":10,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:46:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"plastics","value":20,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:46:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:46:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 13:46:08 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:46:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:46:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: reset 
+2016-07-01 13:46:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 13:46:55 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: getEntities 
+2016-07-01 13:46:57 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:46:57 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: AnnouncementsService , requestMethod: fetchAllAnnouncements 
+2016-07-01 13:46:57 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: reset 
+2016-07-01 13:46:57 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 13:46:58 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:46:58 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: AnnouncementsService , requestMethod: fetchAllAnnouncements 
+2016-07-01 13:46:58 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: ConversationService , requestMethod: getOverview 
+2016-07-01 13:47:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:47:02 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: visitPlayer 
+2016-07-01 13:47:02 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - Player Name: madaro, can sabotage? false
+2016-07-01 13:47:02 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"ai_data","value":30,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:47:02 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"paper_batteries","value":30,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:47:02 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"money":24500,"__class__":"CityResource"}
+2016-07-01 13:47:02 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"paper_batteries","value":30,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:47:02 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"smart_materials","value":30,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:47:02 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"smart_materials","value":30,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:47:02 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"luxury_materials","value":30,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:47:02 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:47:02 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:47:02 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"medals":230,"__class__":"CityResource"}
+2016-07-01 13:47:02 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"nanoparticles","value":30,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:47:02 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"paper_batteries","value":30,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:47:02 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"goods":[{"good_id":"nanoparticles","value":30,"__class__":"CityGood"}],"__class__":"CityResource"}
+2016-07-01 13:47:02 DEBUG com.gmail.tekieli.konrad.OtherPlayerService     - becomes_stale: false, revenue {"supplies":18700,"__class__":"CityResource"}
+2016-07-01 13:47:07 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:47:07 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: reset 
+2016-07-01 13:47:07 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 13:47:07 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: FootballCupService , requestMethod: getOverview 
+2016-07-01 13:47:07 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:47:07 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TrackingService , requestMethod: trackLayerViewEvent 
+2016-07-01 13:53:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:53:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: reset 
+2016-07-01 13:53:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 13:53:05 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: getEntities 
+2016-07-01 13:53:06 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:53:06 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: AnnouncementsService , requestMethod: fetchAllAnnouncements 
+2016-07-01 13:53:06 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: CityMapService , requestMethod: reset 
+2016-07-01 13:53:06 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: QuestService , requestMethod: getUpdates 
+2016-07-01 13:53:06 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-07-01 13:53:06 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: AnnouncementsService , requestMethod: fetchAllAnnouncements 
+2016-07-01 13:53:06 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: ConversationService , requestMethod: getOverview 

@@ -1,0 +1,3 @@
+2016-08-16 08:12:56 DEBUG com.gmail.tekieli.konrad.App     - START
+2016-08-16 08:13:04 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: TimeService , requestMethod: updateTime 
+2016-08-16 08:13:04 DEBUG com.gmail.tekieli.konrad.ReadJSONFile     - requestClass: OtherPlayerService , requestMethod: getEvents 
